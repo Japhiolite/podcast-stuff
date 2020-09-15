@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to a Zylonensender 
 
-You can use the [editor on GitHub](https://github.com/Japhiolite/podcast-stuff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This quick'n'dirty webpage is a presentation of [Jan's](https://japhiolite.github.io/) analysis of the [Zylonensender](https://zahlensender.net/bsg/), where he is one of the podcasters. The podcast is about Battlestar Galactica, and after each episode, the podcasters give a rating. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So after the whole series is watched, we'll have a short look at the overall ratings. We'll have a look at questions like:  
+- Who has been attending the most / least in the podcast?
+- What's the distribution of our ratings (we rated between 0 and 10 points)?  
+- What has been the best episode? What has been the worst? 
+- How do we compare to the IMDb ratings?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Japhiolite/podcast-stuff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Analysis  
+The analysis is done using python and presented as a [Jupyter Notebook](https://jupyter.org/).
