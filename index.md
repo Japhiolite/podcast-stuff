@@ -1,4 +1,3 @@
-![zylonensender](https://raw.githubusercontent.com/Japhiolite/podcast-stuff/master/imgs/Zylonensender_3000x3000.png)
 # Welcome to a Zylonensender 
 
 This quick'n'dirty webpage is a presentation of [Jan's](https://japhiolite.github.io/) analysis of the [Zylonensender](https://zahlensender.net/bsg/), where he is one of the podcasters. The podcast is about Battlestar Galactica, and after each episode, the podcasters give a rating. 
