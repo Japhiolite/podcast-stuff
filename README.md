@@ -4,4 +4,4 @@ Some things related to the [zylonensender](https://zahlensender.net/bsg) podcast
 
 Zylonensender is a german podcast all around the re-imaged Battlestar Galactica series.  
 
-![zylonensender](../imgs/Zylonensender3000x3000.png)
+![zylonensender](https://github.com/Japhiolite/podcast-stuff/blob/master/imgs/Zylonensender_3000x3000.png)
