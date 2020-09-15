@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Japhiolite/podcast-stuff/master/imgs/Zylonensender_3000x3000.png" width="1000">
+
 # Welcome to a Zylonensender 
 
 This quick'n'dirty webpage is a presentation of [Jan's](https://japhiolite.github.io/) analysis of the [Zylonensender](https://zahlensender.net/bsg/), where he is one of the podcasters. The podcast is about Battlestar Galactica, and after each episode, the podcasters give a rating. 
@@ -11,7 +13,6 @@ So after the whole series is watched, we'll have a short look at the overall rat
 ## Analysis  
 The analysis is done using python and presented as a [Jupyter Notebook](https://jupyter.org/).
 
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 
